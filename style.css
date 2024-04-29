@@ -1,0 +1,119 @@
+body{
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  background-color: black;
+  padding: 50px;
+  color: white;
+}
+
+p{
+  margin: 0;
+}
+
+.top{
+  margin-bottom:250px;
+}
+
+
+
+.top-1{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.En-button{
+  background-color: black;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  width: 80px;
+  height: 50px;
+  padding: 10px;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 0 0 100px 10px #fff;
+}
+
+.En-button-1{
+  background-color: black;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  border: none;
+}
+
+.merging-container{
+  font-size: 130px;
+  font-weight: bold;
+  line-height: 98px;
+}
+
+.merging-container-2{
+  margin-top: 50px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  border-bottom: 3px solid transparent;
+  box-shadow: 0 0 10px 10px #fff, 0 0 100px 10px #ffffff, 0 0 100px 90px #faf7f9;
+}
+
+.merging-content{
+  font-size: 130px;
+  font-weight: bold;
+  line-height: 110px;
+}
+
+.merging-content-2{
+  line-height: 20px;
+  margin-left: 300px;
+  width: 500px;
+  font-family: 'Courier New';
+  font-weight: 700;
+  color: rgba(255,255,255,1);
+  border-bottom: 3px solid transparent; 
+}
+
+/* top-below-1*/
+
+.top-below-container{
+  padding-left: 10px;
+  padding-top: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.options-container{
+  font-size:60px;
+}
+
+.options-container a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.options-1 a:hover{
+  color: blue;
+}
+
+.options-2 a:hover{
+  color: rgb(7, 159, 7);
+}
+
+.options-3 a:hover{
+  color: rgb(255, 136, 0);
+}
+
+
+.options-4 a:hover{
+  color: rgb(255, 97, 255);
+}
+
+.options-5 a:hover{
+  color: rgb(255, 28, 28);
+}
+
+
+
